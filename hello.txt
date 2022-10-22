@@ -1,6 +1,6 @@
-hello atguigu!2222222
+hello atguigu!2222
 hello atguigu!
 hello atguigu!
-hello atguigu!
+<<<<<<< HEAD
 hello atguigu! master
-hello atguigu!
+hello atguigu! hot-fix
